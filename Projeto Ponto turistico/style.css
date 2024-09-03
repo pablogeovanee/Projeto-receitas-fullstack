@@ -1,0 +1,22 @@
+*{
+  /* margin: 0;
+  padding: 0; */
+}
+
+body{
+  background-image: url(assets/background.jpg) ;
+  background-size: 100%;
+  border: 100%;
+  background-color: transparent;
+}
+
+#ground{
+  background-size: 100%;
+}
+
+
+img {
+  border-radius: 16px;
+  margin: 24px;
+  align-items: center;
+}
