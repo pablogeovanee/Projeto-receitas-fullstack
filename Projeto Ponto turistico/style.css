@@ -69,12 +69,19 @@ img {
 #estrutura {
   position:relative;
   padding:10px;
+  ;
   margin-left: 50px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   background-color: rgba(71, 222, 141, 0.62);
   font-weight: bold;
 
 }
+
+footer{
+text-align: center;
+
+}
+
 
 #page{
   /* margin: 10 10 10 10; */
