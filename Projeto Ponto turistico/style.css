@@ -41,7 +41,7 @@ img {
 
 
 #sobre {
-
+  border-radius: 16px;
   position: static;
   letter-spacing: 2px;
   line-height: 24px;
@@ -54,9 +54,11 @@ img {
   color: rgb(23, 3, 3);
   font-weight: bold
   
+  
 }
 
 #programacao {
+ border-radius: 16px;
   position: relative;
   padding:10px;
   margin-bottom:10px ;
@@ -67,9 +69,10 @@ img {
 }
 
 #estrutura {
+border-radius: 16px;
+
   position:relative;
   padding:10px;
-  ;
   margin-left: 50px;
   margin-bottom: 50px;
   background-color: rgba(71, 222, 141, 0.62);
